@@ -40,7 +40,7 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
 <strong>Yuancheng Wang<strong>, Haoyue Zhan, Liwei Liu, Ruihong Zeng, Haotian Guo, Jiachen Zheng, Qiang Zhang, Shunsi Zhang, Zhizheng Wu<br />
 <strong>Preprint</strong>:
 <a href="https://arxiv.org/abs/2409.00750"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a>
-<a href="https://maskgct.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a>
+<a href="https://maskgct.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a></p>
   </li>
 
   <li>
@@ -48,14 +48,14 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
 Zeqian Ju*, <strong>Yuancheng Wang*<strong>, Kai Shen*, Xu Tan*, Detai Xin, Dongchao Yang, Yanqing Liu, Yichong Leng, Kaitao Song, Siliang Tang, Zhizheng Wu, Tao Qin, Xiang-Yang Li, Wei Ye, Shikun Zhang, Jiang Bian, Lei He, Jinyu Li, Sheng Zhao.<br />
 <strong>ICML 2024 (Oral)</strong>:
 <a href="https://arxiv.org/pdf/2403.03100"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a>
-<a href="https://huggingface.co/amphion/naturalspeech3_facodec"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Amphion-pink" /></a></p>
+<a href="https://huggingface.co/amphion/naturalspeech3_facodec"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FACodec-pink" /></a></p>
   </li>
 
   <li>
     <p><strong>AUDIT: Audio editing by following instructions with latent diffusion models</strong><br />
 <strong>Yuancheng Wang<strong>, Zeqian Ju, Xu Tan, Lei He, Zhizheng Wu, Jiang Bian<br />
 <strong>NeurIPS 2023</strong>:
-<a href="https://arxiv.org/abs/2304.00830"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a>
+<a href="https://arxiv.org/abs/2304.00830"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a></p>
   </li>
 
   <li>
