@@ -34,42 +34,21 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
 
 # 📝 Publications 
 
-<tr>
-            <td valign="center">
-              <span class="tag">SLT 2024</span>&nbsp;&nbsp;
-              <a href="https://github.com/open-mmlab/Amphion">
-                <img src="https://img.shields.io/github/stars/open-mmlab/Amphion?color=success&logo=github">
-              </a>
-              &nbsp;&nbsp;
-              <papertitle>
-                Amphion: An Open-Source Audio, Music and Speech Generation Toolkit
-              </papertitle>
-              <br>
-              <span class="underline">Xueyao Zhang</span>*, <a class="black"
-                href="https://scholar.google.com/citations?user=KNqxVT0AAAAJ&hl=zh-CN">Liumeng Xue</a>*, <a
-                class="black" href="https://www.yichenggu.com/">Yicheng
-                Gu*</a>, <a class="black"
-                href="https://scholar.google.com/citations?user=60uamz4AAAAJ&hl=en&oi=sra">Yuancheng
-                Wang</a>*, Jiaqi Li*, Haorui He, Chaoren Wang, Songting Liu, Xi Chen, Junan Zhang, Zihao Fang, Haopeng
-              Chen, Tze Ying Tang,
-              Lexiao Zou, Mingxuan Wang, <a class="black" href="https://stevenhan1991.github.io/">Jun Han</a>, <a
-                class="black" href="https://chenkai.site/">Kai
-                Chen</a>, <a class="black" href="https://www.colips.org/~eleliha/">Haizhou Li</a>, <a class="black"
-                href="https://drwuz.com/">Zhizheng
-                Wu</a> (*: Equal Contribution)
-              <br>
-              <i>Proceedings of the IEEE Spoken Language Technology Workshop 2024</i>
-              <br>
-              <a href="https://arxiv.org/pdf/2312.09911.pdf">Preprint</a> /
-              <a href="https://github.com/open-mmlab/Amphion">GitHub</a> /
-              <!-- <a href="data/HAT/slides.pdf">Slides</a> / -->
-              <a href="https://huggingface.co/amphion">HuggingFace</a> /
-              <a href="https://openxlab.org.cn/usercenter/Amphion">OpenXLab</a>
-              <br>
-              <span class="tldr">TL;DR: We develop a unified audio generation open-source toolkit.
-              </span>
-            </td>
-</tr>
+<ul>
+  <li>
+    <p><strong>Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation</strong><br />
+<u>Haorui He</u>*, Zengqiang Shang*, Chaoren Wang*, Xuyuan Li*, Yicheng Gu, Hua Hua, Liwei Liu, Chen Yang, Jiaqi Li, Peiyang Shi, Yuancheng Wang, Kai Chen, Pengyuan Zhang, and Zhizheng Wu<br />
+<strong>SLT 2024</strong>:  <a href="https://github.com/open-mmlab/Amphion/tree/main/preprocessors/Emilia"><img src="https://img.shields.io/github/stars/open-mmlab/Amphion?color=success&amp;logo=github" /></a> <a href="https://arxiv.org/abs/2407.05361"><img src="https://img.shields.io/badge/arXiv-Paper-COLOR.svg" alt="arXiv" /></a> <a href="https://huggingface.co/datasets/amphion/Emilia-Dataset"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow" alt="hf" /></a> <a href="https://opendatalab.com/Amphion/Emilia"><img src="https://img.shields.io/badge/OpenDataLab-Dataset-blue" alt="OpenDataLab" /></a> <a href="https://emilia-dataset.github.io/Emilia-Demo-Page/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a> <a href="https://x.com/realamphion/status/1811793307078643882"><img src="https://img.shields.io/badge/Tweet-Link-blue" alt="Tweet" /></a></p>
+  </li>
+  <li>
+    <p><strong>Amphion: An Open-Source Audio, Music and Speech Generation Toolkit</strong><br />
+Xueyao Zhang*, Liumeng Xue*, Yicheng Gu*, Yuancheng Wang*, <u>Haorui He</u>, Chaoren Wang, Xi Chen, Zihao Fang, Haopeng Chen, Junan Zhang, Tze Ying Tang, Lexiao Zou, Mingxuan Wang, Jun Han, Kai Chen, Haizhou Li, and Zhizheng Wu.<br />
+<strong>SLT 2024</strong>:
+<a href="https://github.com/open-mmlab/Amphion"><img src="https://img.shields.io/github/stars/open-mmlab/Amphion?color=success&amp;logo=github" /></a>
+<a href="https://arxiv.org/abs/2312.09911"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a>
+<a href="https://huggingface.co/amphion"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Amphion-pink" /></a></p>
+  </li>
+</ul>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Oral</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
