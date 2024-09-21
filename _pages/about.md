@@ -34,7 +34,7 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
 
 # 📝 Publications 
 
-          <tr>
+<tr>
             <td valign="center">
               <span class="tag">SLT 2024</span>&nbsp;&nbsp;
               <a href="https://github.com/open-mmlab/Amphion">
@@ -69,7 +69,7 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
               <span class="tldr">TL;DR: We develop a unified audio generation open-source toolkit.
               </span>
             </td>
-          </tr>
+</tr>
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024 Oral</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
