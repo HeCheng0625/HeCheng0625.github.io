@@ -48,6 +48,12 @@ Zeqian Ju*, <strong>Yuancheng Wang*</strong>, Kai Shen*, Xu Tan*, Detai Xin, Don
 <a href="https://arxiv.org/pdf/2403.03100"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://huggingface.co/amphion/naturalspeech3_facodec"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FACodec-pink" /></a></p>
   </li>
   <li>
+    <p><strong>AUDIT: Audio editing by following instructions with latent diffusion models</strong><br />
+<strong>Yuancheng Wang</strong>, Zeqian Ju, Xu Tan, Lei He, Zhizheng Wu, Jiang Bian<br />
+<strong>NeurIPS 2023</strong>:
+<a href="https://arxiv.org/abs/2304.00830"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://audit-demo.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a></p>
+  </li>
+  <li>
     <p><strong>Amphion: An Open-Source Audio, Music and Speech Generation Toolkit</strong><br />
 Xueyao Zhang*, Liumeng Xue*, Yicheng Gu*, <strong>Yuancheng Wang*</strong>, Haorui He, Chaoren Wang, Xi Chen, Zihao Fang, Haopeng Chen, Junan Zhang, Tze Ying Tang, Lexiao Zou, Mingxuan Wang, Jun Han, Kai Chen, Haizhou Li, and Zhizheng Wu.<br />
 <strong>SLT 2024</strong>:
@@ -59,12 +65,6 @@ Xueyao Zhang*, Liumeng Xue*, Yicheng Gu*, <strong>Yuancheng Wang*</strong>, Haor
     <p><strong>Emilia: An Extensive, Multilingual, and Diverse Speech Dataset for Large-Scale Speech Generation</strong><br />
 Haorui He*, Zengqiang Shang*, Chaoren Wang*, Xuyuan Li*, Yicheng Gu, Hua Hua, Liwei Liu, Chen Yang, Jiaqi Li, Peiyang Shi, <strong>Yuancheng Wang</strong>, Kai Chen, Pengyuan Zhang, and Zhizheng Wu<br />
 <strong>SLT 2024</strong>:  <a href="https://github.com/open-mmlab/Amphion/tree/main/preprocessors/Emilia"><img src="https://img.shields.io/github/stars/open-mmlab/Amphion?color=success&amp;logo=github" /></a> <a href="https://arxiv.org/abs/2407.05361"><img src="https://img.shields.io/badge/arXiv-Paper-COLOR.svg" alt="arXiv" /></a> <a href="https://huggingface.co/datasets/amphion/Emilia-Dataset"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Dataset-yellow" alt="hf" /></a> <a href="https://opendatalab.com/Amphion/Emilia"><img src="https://img.shields.io/badge/OpenDataLab-Dataset-blue" alt="OpenDataLab" /></a> <a href="https://emilia-dataset.github.io/Emilia-Demo-Page/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a> <a href="https://x.com/realamphion/status/1811793307078643882"><img src="https://img.shields.io/badge/Tweet-Link-blue" alt="Tweet" /></a></p>
-  </li>
-  <li>
-    <p><strong>AUDIT: Audio editing by following instructions with latent diffusion models</strong><br />
-<strong>Yuancheng Wang</strong>, Zeqian Ju, Xu Tan, Lei He, Zhizheng Wu, Jiang Bian<br />
-<strong>NeurIPS 2023</strong>:
-<a href="https://arxiv.org/abs/2304.00830"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://audit-demo.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a></p>
   </li>
 </ul>
 
