@@ -25,9 +25,9 @@ author:
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
-  employer         :
+  employer         : "I'm a third-year Ph.D. student at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=60uamz4AAAAJ&hl=zh-CN"
   email            : "yuanchengwang@link.cuhk.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/HeCheng0625"
   google_plus      :
   keybase          :
   instagram        :
