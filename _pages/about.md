@@ -38,9 +38,9 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
   <li>
     <p><strong>MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer</strong><br />
 <strong>Yuancheng Wang</strong>, Haoyue Zhan, Liwei Liu, Ruihong Zeng, Haotian Guo, Jiachen Zheng, Qiang Zhang, Shunsi Zhang, Zhizheng Wu<br />
-<span class="tag">SLT 2024</span>:
-<a href="https://arxiv.org/abs/2409.00750"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://maskgct.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a></p><br />
-
+<span class="tag">Preprint</span>&nbsp;&nbsp;:
+<a href="https://arxiv.org/abs/2409.00750"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://maskgct.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a></p>
+TL;DR: We develop a SOTA large-scale Multilingual TTS system with masked generative models.
   </li>
   <li>
     <p><strong>NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models</strong><br />
@@ -60,7 +60,7 @@ Xueyao Zhang*, Liumeng Xue*, Yicheng Gu*, <strong>Yuancheng Wang*</strong>, Haor
 <strong>SLT 2024</strong>:
 <a href="https://github.com/open-mmlab/Amphion"><img src="https://img.shields.io/github/stars/open-mmlab/Amphion?color=success&amp;logo=github" /></a>
 <a href="https://arxiv.org/abs/2312.09911"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a>
-<a href="https://huggingface.co/amphion"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Amphion-pink" /></a></p><br />
+<a href="https://huggingface.co/amphion"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-Amphion-pink" /></a></p>
 TL;DR: We develop a unified audio generation open-source toolkit.
   </li>
   <li>
