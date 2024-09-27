@@ -22,7 +22,8 @@ My name is Yuancheng Wang (王远程). I'm a first-year Ph.D. student at the Chi
 My research interest includes **text-to-speech synthesis**, **text-to-audio generation**, and **unified audio representation and generation**. I am one of the main contributors and leaders of the open-source [Amphion](https://github.com/open-mmlab/Amphion) toolkit. I have developed [NaturalSpeech 3](https://arxiv.org/abs/2403.03100), which is an advanced text-to-speech model with factorized speech representation and modeling.
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet -->
+
+- *2024.09*: 🎉: Our paper, [SD-Eval](https://arxiv.org/abs/2406.13340), got accepted by NeurIPS 2024.
 - *2024.09*: 🔥 We released [MaskGCT](https://arxiv.org/abs/2409.00750), A new SOTA large-scale TTS system with masked generative models.
 - *2024.08*: 🎉 our papers, [Amphion](https://arxiv.org/abs/2312.09911) and [Emilia](https://arxiv.org/abs/2407.05361) got accepted by IEEE SLT 2024.
 - *2024.07*: 🔥 We released [Emilia](https://arxiv.org/abs/2407.05361v1), an extensive, multilingual, and diverse speech dataset for large-scale speech generation with 101k hours of speech in six languages and features diverse speech with varied speaking styles.
@@ -42,10 +43,16 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
 <a href="https://arxiv.org/abs/2409.00750"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://maskgct.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a></p>
   </li>
   <li>
+    <p><strong>SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words</strong><br />
+Junyi Ao*, <strong>Yuancheng Wang*</strong>, Xiaohai Tian, Dekun Chen, Jun Zhang, Lu Lu, Yuxuan Wang, Haizhou Li, Zhizheng Wu<br />
+<strong>NeurIPS 2024</strong>:
+<a href="https://arxiv.org/abs/2406.13340"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://huggingface.co/datasets/amphion/SD-Eval"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-SDEval-pink" alt="demo" /></a></p>
+  </li>
+  <li>
     <p><strong>NaturalSpeech 3: Zero-Shot Speech Synthesis with Factorized Codec and Diffusion Models</strong><br />
 Zeqian Ju*, <strong>Yuancheng Wang*</strong>, Kai Shen*, Xu Tan*, Detai Xin, Dongchao Yang, Yanqing Liu, Yichong Leng, Kaitao Song, Siliang Tang, Zhizheng Wu, Tao Qin, Xiang-Yang Li, Wei Ye, Shikun Zhang, Jiang Bian, Lei He, Jinyu Li, Sheng Zhao.<br />
 <strong>ICML 2024 (Oral)</strong>:
-<a href="https://arxiv.org/pdf/2403.03100"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://huggingface.co/amphion/naturalspeech3_facodec"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FACodec-pink" /></a></p>
+<a href="https://arxiv.org/abs/2403.03100"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://huggingface.co/amphion/naturalspeech3_facodec"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-FACodec-pink" /></a></p>
   </li>
   <li>
     <p><strong>AUDIT: Audio editing by following instructions with latent diffusion models</strong><br />

@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yuancheng Wang (王远程)"
-  # avatar           : ""
+  avatar           : "images/apple-touch-icon.png"
   bio              : "The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
   employer         :
