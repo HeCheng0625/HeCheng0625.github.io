@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My name is Yuancheng Wang (王远程). I'm a first-year Ph.D. student at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by Professor [Zhizheng Wu](http://www.drwuz.com/). before that, I received my B.S. degree at CUHK-Shenzhen. I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/) from Microsoft Research Asia.
+My name is Yuancheng Wang (王远程). I'm a second-year Ph.D. student at the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), supervised by Professor [Zhizheng Wu](http://www.drwuz.com/). before that, I received my B.S. degree at CUHK-Shenzhen. I also collaborate with [Xu Tan (谭旭)](https://www.microsoft.com/en-us/research/people/xuta/) from Microsoft Research Asia.
 
 My research interest includes **text-to-speech synthesis**, **text-to-audio generation**, and **unified audio representation and generation**. I am one of the main contributors and leaders of the open-source [Amphion](https://github.com/open-mmlab/Amphion) toolkit. I have developed [NaturalSpeech 3](https://arxiv.org/abs/2403.03100), which is an advanced text-to-speech model with factorized speech representation and modeling.
 
