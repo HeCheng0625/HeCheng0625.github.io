@@ -39,7 +39,7 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
   <li>
     <p><strong>MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer</strong><br />
 <strong>Yuancheng Wang</strong>, Haoyue Zhan, Liwei Liu, Ruihong Zeng, Haotian Guo, Jiachen Zheng, Qiang Zhang, Shunsi Zhang, Zhizheng Wu<br />
-<strong>SLT 2024</strong>:
+<strong>Preprint</strong>:
 <a href="https://arxiv.org/abs/2409.00750"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://maskgct.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a></p>
   </li>
   <li>
