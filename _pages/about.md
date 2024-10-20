@@ -40,7 +40,7 @@ My research interest includes **text-to-speech synthesis**, **text-to-audio gene
     <p><strong>MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer</strong><br />
 <strong>Yuancheng Wang</strong>, Haoyue Zhan, Liwei Liu, Ruihong Zeng, Haotian Guo, Jiachen Zheng, Qiang Zhang, Shunsi Zhang, Zhizheng Wu<br />
 <strong>Preprint</strong>:
-<a href="https://arxiv.org/abs/2409.00750"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://maskgct.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a></p>
+<a href="https://arxiv.org/abs/2409.00750"><img src="https://img.shields.io/badge/arXiv-Paper-&lt;COLOR&gt;.svg" /></a> <a href="https://maskgct.github.io/"><img src="https://img.shields.io/badge/WebPage-Demo-red" alt="demo" /></a> <a href="https://huggingface.co/amphion/maskgct"><img src="https://img.shields.io/badge/%F0%9F%A4%97%20HuggingFace-MaskGCT-pink"/></a><img src="https://img.shields.io/badge/Code-MaskGCT-purple"/></a></p>
   </li>
   <li>
     <p><strong>SD-Eval: A Benchmark Dataset for Spoken Dialogue Understanding Beyond Words</strong><br />
