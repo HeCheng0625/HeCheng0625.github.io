@@ -22,8 +22,8 @@ My name is Yuancheng Wang (王远程). I'm a second-year Ph.D. student at the Ch
 My research interest includes **text-to-speech synthesis**, **text-to-audio generation**, and **unified audio representation and generation**. I am one of the main contributors and leaders of the open-source [Amphion](https://github.com/open-mmlab/Amphion) toolkit. I have developed [NaturalSpeech 3](https://arxiv.org/abs/2403.03100), which is an advanced text-to-speech model with factorized speech representation and modeling.
 
 # 🔥 News
-
-- *2024.09*: 🎉: Our paper, [SD-Eval](https://arxiv.org/abs/2406.13340), got accepted by NeurIPS 2024.
+- *2024.10*: 🔥 We released [code](https://github.com/HeCheng0625/AmphionOpen/tree/dev/maskgct/models/tts/maskgct) and [checkpoints](https://huggingface.co/amphion/MaskGCT) of MaskGCT, MaskGCT has been used in [趣丸千音](https://voice.funnycp.com/#/). 
+- *2024.09*: 🎉 Our paper, [SD-Eval](https://arxiv.org/abs/2406.13340), got accepted by NeurIPS 2024.
 - *2024.09*: 🔥 We released [MaskGCT](https://arxiv.org/abs/2409.00750), A new SOTA large-scale TTS system with masked generative models.
 - *2024.08*: 🎉 our papers, [Amphion](https://arxiv.org/abs/2312.09911) and [Emilia](https://arxiv.org/abs/2407.05361) got accepted by IEEE SLT 2024.
 - *2024.07*: 🔥 We released [Emilia](https://arxiv.org/abs/2407.05361v1), an extensive, multilingual, and diverse speech dataset for large-scale speech generation with 101k hours of speech in six languages and features diverse speech with varied speaking styles.
