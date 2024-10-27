@@ -98,13 +98,16 @@ Haorui He*, Zengqiang Shang*, Chaoren Wang*, Xuyuan Li*, Yicheng Gu, Hua Hua, Li
 - *2019.09 - 2023.05*, Undergraduate, the Chinese University of Hong Kong, Shenzhen.
 - *2015.09 - 2019.06*, Hefei No.1 High School, Hefei, Anhui.
 
- # 💬 Invited Talks
-
-- *2024.07*, I give a talk about SD-Eval, OpenMMLab
-- *2024.05*, I give a talk about Amphion, OpenMMLab
-- *2024.04*, I give a talk about NaturalSpeech 3, Synced 机器之心
-- *2024.03*, I give a talk about NaturalSpeech 3, Speech Home 语音之家
+# 💬 Invited Talks
+- *2024.07*, SD-Eval, OpenMMLab
+- *2024.05*, Amphion, OpenMMLab
+- *2024.04*, NaturalSpeech 3, Synced 机器之心
+- *2024.03*, NaturalSpeech 3, Speech Home 语音之家
   
 # 💻 Internships
 - *2024.05 - now*, ByteDance, Shenzhen.
 - *2022.12 - 2023.06*, Microsoft, Beijing.
+
+# Services
+**Reviewer**: International Conference on Learning Representations (ICLR), IEEE Transactions on Audio, Speech and Language Processing (TASLP)
+**Teaching Assistant**: Fall 2024, CSC1001, Introduction to Computer Science: Programming Methodology, CUHK(SZ)
