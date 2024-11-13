@@ -89,9 +89,11 @@ Haorui He*, Zengqiang Shang*, Chaoren Wang*, Xuyuan Li*, Yicheng Gu, Hua Hua, Li
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
-<!-- # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+# 🎖 Honors and Awards
+Duan Yong Ping Outstanding Research Award, 2024
+CUHK(SZ) The Bowen Scholarship, 2019 - 2023
+First prize of Guangdong Province for the Mathematics competition of Chinese College Student, 2020
+First price in Chinese High School Mathematics League
 
 # 📖 Educations
 - *2023.09 - now*, Ph.D. student, the Chinese University of Hong Kong, Shenzhen.
@@ -99,6 +101,7 @@ Haorui He*, Zengqiang Shang*, Chaoren Wang*, Xuyuan Li*, Yicheng Gu, Hua Hua, Li
 - *2015.09 - 2019.06*, Hefei No.1 High School, Hefei, Anhui.
 
 # 💬 Invited Talks
+- *2024.11*, MaskGCT, OpenMMLab & Speech Home & ModelScope
 - *2024.07*, SD-Eval, OpenMMLab
 - *2024.05*, Amphion, OpenMMLab
 - *2024.04*, NaturalSpeech 3, Synced 机器之心
