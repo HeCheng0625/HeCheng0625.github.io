@@ -101,11 +101,11 @@ Haorui He*, Zengqiang Shang*, Chaoren Wang*, Xuyuan Li*, Yicheng Gu, Hua Hua, Li
 - *2015.09 - 2019.06*, Hefei No.1 High School, Hefei, Anhui.
 
 # 💬 Invited Talks
-- *2024.11*, MaskGCT, OpenMMLab, Speech Home, ModelScope
-- *2024.07*, SD-Eval, OpenMMLab
-- *2024.05*, Amphion, OpenMMLab
-- *2024.04*, NaturalSpeech 3, Synced 机器之心
-- *2024.03*, NaturalSpeech 3, Speech Home 语音之家
+- *2024.11*, **MaskGCT**, OpenMMLab, Speech Home, ModelScope
+- *2024.07*, **SD-Eval**, OpenMMLab
+- *2024.05*, **Amphion**, OpenMMLab
+- *2024.04*, **NaturalSpeech 3**, Synced 机器之心
+- *2024.03*, **NaturalSpeech 3**, Speech Home 语音之家
   
 # 💻 Internships
 - *2024.05 - now*, ByteDance, Shenzhen.
