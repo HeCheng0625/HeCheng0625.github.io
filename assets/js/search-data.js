@@ -67,14 +67,19 @@ ninja.data = [{
               },
             },{id: "internship-1",
           title: '1',
-          description: "Developed on audio generation &amp; editing and larger scale text-to-speech synthesis.",
+          description: "Developed on audio generation &amp; editing (AUDIT) and larger scale text-to-speech synthesis (NaturalSpeech 3).",
           section: "Internship",handler: () => {
               window.location.href = "/internship/1/";
             },},{id: "internship-2",
           title: '2',
-          description: "",
+          description: "Built a benchmark dataset for spoken dialogue understanding, our work SD-Eval was Accepted to NeurIPS 2024.",
           section: "Internship",handler: () => {
               window.location.href = "/internship/2/";
+            },},{id: "internship-3",
+          title: '3',
+          description: "",
+          section: "Internship",handler: () => {
+              window.location.href = "/internship/3/";
             },},{id: "news-my-first-paper-about-audio-generation-and-editing-audit-audio-editing-by-following-instructions-with-latent-diffusion-models-got-accepted-by-neurips-2023",
           title: '🎉 My first paper about audio generation and editing AUDIT: Audio Editing by...',
           description: "",
@@ -98,6 +103,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-maskgct-zero-shot-text-to-speech-with-masked-generative-codec-transformer-have-been-accepted-to-iclr-2025",
           title: '🎉 MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer have been accepted to...',
+          description: "",
+          section: "News",},{id: "news-our-paper-advancing-zero-shot-text-to-speech-intelligibility-across-diverse-domains-via-preference-alignment-aka-naturalspeech-3-got-accepted-by-acl-2025-main",
+          title: '🎉 Our paper Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment,...',
           description: "",
           section: "News",},{
         id: 'social-email',
