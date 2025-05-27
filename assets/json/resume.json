@@ -6,7 +6,7 @@
     "email": "yuanchengwang@link.cuhk.edu.cn",
     "phone": "(+86) 189-5643-5965",
     "url": "https://HeCheng0625.github.io/",
-    "summary": "A second-year Ph.D. student at CUHK(SZ), interested in text-to-speech synthesis, text-to-audio generation, and unified audio representation and generation.",
+    "summary": "A second-year Ph.D. student at CUHK(SZ), interested in speech/audio generation & representation, large speeech language model, and generative AI",
     "location": {
       "city": "Shenzhen",
       "countryCode": "CN",
@@ -54,7 +54,8 @@
       "position": "Research Intern",
       "location": "Shenzhen, China",
       "startDate": "2024-05-01",
-      "endDate": "",
+      "endDate": "2025-04-30",
+      "summary": "Built a benchmark dataset for spoken dialogue understanding, our work SD-Eval was Accepted to NeurIPS 2024.",
       "highlights": ["Speech Understanding"]
     }
   ],
