@@ -104,7 +104,7 @@ ninja.data = [{
           section: "News",},{id: "news-maskgct-zero-shot-text-to-speech-with-masked-generative-codec-transformer-have-been-accepted-to-iclr-2025",
           title: '🎉 MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer have been accepted to...',
           description: "",
-          section: "News",},{id: "news-our-paper-advancing-zero-shot-text-to-speech-intelligibility-across-diverse-domains-via-preference-alignment-aka-naturalspeech-3-got-accepted-by-acl-2025-main",
+          section: "News",},{id: "news-our-paper-advancing-zero-shot-text-to-speech-intelligibility-across-diverse-domains-via-preference-alignment-got-accepted-by-acl-2025-main",
           title: '🎉 Our paper Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment,...',
           description: "",
           section: "News",},{
