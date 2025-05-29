@@ -65,7 +65,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "internship-1",
+            },{id: "post-ints",
+      
+        title: "Ints",
+      
+      description: "",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/ints/";
+        
+      },
+    },{id: "internship-1",
           title: '1',
           description: "Developed on audio generation &amp; editing (AUDIT) and larger scale text-to-speech synthesis (NaturalSpeech 3).",
           section: "Internship",handler: () => {
