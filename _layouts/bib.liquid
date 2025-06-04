@@ -258,6 +258,9 @@
       {% if entry.huggingface %}
         <a href="{{ entry.huggingface }}" class="btn btn-sm z-depth-0" role="button">Huggingface</a>
       {% endif %}
+      {% if entry.paper %}
+        <a href="{{ entry.paper }}" class="btn btn-sm z-depth-0" role="button">Paper</a>
+      {% endif %}
     </div>
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
