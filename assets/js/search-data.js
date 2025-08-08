@@ -78,7 +78,7 @@ ninja.data = [{
       },
     },{id: "internship-1",
           title: '1',
-          description: "Developed on audio generation &amp; editing (AUDIT) and larger scale text-to-speech synthesis (NaturalSpeech 3).",
+          description: "",
           section: "Internship",handler: () => {
               window.location.href = "/internship/1/";
             },},{id: "internship-2",
