@@ -23,6 +23,20 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
+        },{id: "nav-internship",
+          title: "internship",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/internship/";
+          },
+        },{id: "nav-invited-talks",
+          title: "invited talks",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/invited_talks/";
+          },
         },{id: "nav-repositories",
           title: "repositories",
           description: "",
@@ -83,7 +97,7 @@ ninja.data = [{
               window.location.href = "/internship/1/";
             },},{id: "internship-2",
           title: '2',
-          description: "Built a benchmark dataset for spoken dialogue understanding, our work SD-Eval was Accepted to NeurIPS 2024.",
+          description: "",
           section: "Internship",handler: () => {
               window.location.href = "/internship/2/";
             },},{id: "internship-3",
@@ -91,6 +105,26 @@ ninja.data = [{
           description: "",
           section: "Internship",handler: () => {
               window.location.href = "/internship/3/";
+            },},{id: "invited_talks-naturalspeech-3-speech-disentanglement-and-zero-shot-tts-in-the-era-of-big-data",
+          title: 'NaturalSpeech 3: Speech Disentanglement and Zero-Shot TTS in the Era of Big Data...',
+          description: "I was honored to be invited to give a talk with Zeqian at the SpeechHome (语音之家) AI Tech Salon.",
+          section: "Invited_talks",handler: () => {
+              window.location.href = "/invited_talks/1/";
+            },},{id: "invited_talks-maskgct-zero-shot-text-to-speech-with-masked-generative-codec-transformer",
+          title: 'MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer',
+          description: "I was honored to be invited to give a talk at the joint event organized by OpenMMLab and SpeechHome. [[Video]](https://www.bilibili.com/video/BV1LJD1YsEd4)",
+          section: "Invited_talks",handler: () => {
+              window.location.href = "/invited_talks/2/";
+            },},{id: "invited_talks-speech-generation-with-masked-generative-modeling",
+          title: 'Speech Generation with Masked Generative Modeling',
+          description: "I was honored to be invited to give a talk at Professor Ye Wang&#39;s Lab at National University of Singapore.",
+          section: "Invited_talks",handler: () => {
+              window.location.href = "/invited_talks/3/";
+            },},{id: "invited_talks-towards-natural-and-efficient-speech-synthesis-perspectives-on-modeling-alignment-and-representation",
+          title: 'Towards Natural and Efficient Speech Synthesis: Perspectives on Modeling, Alignment, and Representation',
+          description: "I was honored to be invited to give an online talk at the Xmart Youth Forum hosted by the SJTU X-LANCE lab. [[Slides]](https://github.com/X-LANCE/Xmart/blob/main/slides/xmart14_yuanchengwang_Towards_Natural_and_Efficient_Speech_Synthesis_20250626.pdf) [[Video]](https://www.bilibili.com/video/BV1FuKzzGEq3/)",
+          section: "Invited_talks",handler: () => {
+              window.location.href = "/invited_talks/4/";
             },},{id: "news-my-first-paper-about-audio-generation-and-editing-audit-audio-editing-by-following-instructions-with-latent-diffusion-models-got-accepted-by-neurips-2023",
           title: '🎉 My first paper about audio generation and editing AUDIT: Audio Editing by...',
           description: "",
