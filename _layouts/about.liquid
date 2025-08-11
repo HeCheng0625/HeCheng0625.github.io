@@ -73,6 +73,14 @@ layout: default
       {% include internship.liquid limit=true %}
     {% endif %}
 
+    <!-- Invited Talks -->
+    {% if page.invited_talks and site.announcements and site.announcements.enabled %}
+      <h2>
+        <a href="{{ '/invited_talks/' | relative_url }}" style="color: inherit">invited talks</a>
+      </h2>
+      {% include invited_talks.liquid limit=false %}
+    {% endif %}
+
     <!-- Social -->
     {% if page.social %}
       <div class="social">

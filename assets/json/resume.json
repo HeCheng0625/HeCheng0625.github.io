@@ -6,7 +6,7 @@
     "email": "yuanchengwang@link.cuhk.edu.cn",
     "phone": "(+86) 189-5643-5965",
     "url": "https://HeCheng0625.github.io/",
-    "summary": "A second-year Ph.D. student at CUHK(SZ), interested in speech/audio generation & representation, large speeech language model, and generative AI",
+    "summary": "A third-year Ph.D. student at CUHK(SZ), interested in speech/audio generation & representation, large language models, and generative AI",
     "location": {
       "city": "Shenzhen",
       "countryCode": "CN",
@@ -57,6 +57,15 @@
       "endDate": "2025-04-30",
       "summary": "Built a benchmark dataset for spoken dialogue understanding, our work SD-Eval was Accepted to NeurIPS 2024.",
       "highlights": ["Speech Understanding"]
+    },
+    {
+      "name": "Meta Superintelligence Labs (formerly GenAI)",
+      "position": "Research Scientist Intern",
+      "location": "Shenzhen, China",
+      "startDate": "2025-05-01",
+      "endDate": "",
+      "summary": "Enhancing the speech capabilities of Llama models.",
+      "highlights": ["Speech LLM, Speech Tokenizer"]
     }
   ],
   "volunteer": [
@@ -118,6 +127,13 @@
     }
   ],
   "publications": [
+    {
+      "name": "Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment",
+      "publisher": "ACL 2025",
+      "releaseDate": "2025",
+      "url": "https://arxiv.org/abs/2505.04113",
+      "summary": "We propose the INTP dataset and extend preference alignment to enhance the intelligibility and overall quality of TTS systems in challenging scenarios."
+    },
     {
       "name": "MaskGCT: Zero-Shot Text-to-Speech with Masked Generative Codec Transformer",
       "publisher": "ICLR 2025",

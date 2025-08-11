@@ -4,7 +4,7 @@ permalink: /services/
 title: services
 description:
 nav: true
-nav_order: 6
+nav_order: 8
 ---
 
 
@@ -29,7 +29,7 @@ nav_order: 6
     <h3 class="card-title">Reviewer</h3>
     <div class="card-text">
       <ul>
-        <li>Conference: ICML, ICLR, NeurIPS</li>
+        <li>Conference: ICML, ICLR, NeurIPS, COLM</li>
       </ul>
       <ul>
         <li>Journal: IEEE Transactions on Audio, Speech and Language Processing (TASLP)</li>
