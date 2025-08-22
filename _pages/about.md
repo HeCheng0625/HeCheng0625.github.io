@@ -21,4 +21,4 @@ I'm Yuancheng Wang (王远程), a PhD student at [the Chinese University of Hong
 
 I have developed several advanced TTS models, including NaturalSpeech 3 and MaskGCT, and I am one of the main contributors and leaders of the open-source Amphion [Amphion](https://github.com/open-mmlab/Amphion) toolkit. My work has been published at top international AI conferences such as NeurIPS, ICML, ICLR, ACL, and IEEE SLT with citations of 700+.
 
-I am looking for a full-time position now, feel free to contact me if you are interested in my experience!
+**I am looking for a full-time position now, feel free to contact me if you are interested in my experience!**
