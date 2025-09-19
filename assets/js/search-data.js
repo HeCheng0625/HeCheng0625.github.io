@@ -141,6 +141,9 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-advancing-zero-shot-text-to-speech-intelligibility-across-diverse-domains-via-preference-alignment-got-accepted-by-acl-2025-main",
           title: '🎉 Our paper Advancing Zero-shot Text-to-Speech Intelligibility across Diverse Domains via Preference Alignment,...',
           description: "",
+          section: "News",},{id: "news-our-paper-tadicodec-text-aware-diffusion-speech-tokenizer-for-speech-language-modeling-and-metis-a-foundation-speech-generation-model-with-masked-generative-pre-training-got-accepted-by-neurips-2025",
+          title: '🎉 Our paper TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling and...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
