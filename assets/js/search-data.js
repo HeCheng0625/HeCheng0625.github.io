@@ -144,8 +144,8 @@ ninja.data = [{
           section: "News",},{id: "news-our-paper-tadicodec-text-aware-diffusion-speech-tokenizer-for-speech-language-modeling-and-metis-a-foundation-speech-generation-model-with-masked-generative-pre-training-got-accepted-by-neurips-2025",
           title: '🎉 Our paper TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling and...',
           description: "",
-          section: "News",},{id: "news-tadicodec-text-aware-diffusion-speech-tokenizer-for-speech-language-modeling-gets-the-onourable-mention-awards-at-nanyang-speech-technology-forum-nysf-2025-noro-noise-robust-one-shot-voice-conversion-with-hidden-speaker-representation-learning-gets-the-best-paper-finalist-at-apsipa-2025",
-          title: '🎉 TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling gets the onourable...',
+          section: "News",},{id: "news-tadicodec-text-aware-diffusion-speech-tokenizer-for-speech-language-modeling-gets-the-honourable-mention-awards-at-nanyang-speech-technology-forum-nysf-2025-noro-noise-robust-one-shot-voice-conversion-with-hidden-speaker-representation-learning-gets-the-best-paper-finalist-at-apsipa-2025",
+          title: '🎉 TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling gets the honourable...',
           description: "",
           section: "News",},{
         id: 'social-email',
