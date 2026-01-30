@@ -147,6 +147,9 @@ ninja.data = [{
           section: "News",},{id: "news-tadicodec-text-aware-diffusion-speech-tokenizer-for-speech-language-modeling-gets-the-honourable-mention-awards-at-nanyang-speech-technology-forum-nysf-2025-noro-noise-robust-one-shot-voice-conversion-with-hidden-speaker-representation-learning-gets-the-best-paper-finalist-at-apsipa-2025",
           title: '🎉 TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language Modeling gets the honourable...',
           description: "",
+          section: "News",},{id: "news-three-paper-got-accepted-by-iclr-2026",
+          title: '🎉 Three paper got accepted by ICLR 2026!',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
