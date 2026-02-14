@@ -17,9 +17,12 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm Yuancheng Wang (王远程), a PhD student at [the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), SDS](https://sds.cuhk.edu.cn/en), supervised by Prof. [Zhizheng Wu](http://www.drwuz.com/). before that, I received the B.S. degree at CUHK-Shenzhen.
-My research interests include **Multi-modal LLM, Generative AI for Speech and Audio, Post-Training, and Representation Learning**. I have interned at Meta Superintelligence Labs, Microsoft Research Asia (MSRA) and ByteDance.
+I will be joining the Multimodal Interaction & World Model Team of ByteDance Seed as a full-time researcher.
 
-I have developed several advanced TTS models, including NaturalSpeech 3 and MaskGCT, and I am one of the main contributors and leaders of the open-source Amphion [Amphion](https://github.com/open-mmlab/Amphion)[![GitHub stars](https://img.shields.io/github/stars/open-mmlab/Amphion)](https://github.com/open-mmlab/Amphion) toolkit. My work has been published at top international AI conferences such as NeurIPS, ICML, ICLR, ACL, IEEE SLT and IEEE TASLP.
+I'm Yuancheng Wang (王远程), a PhD student at [the Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen), SDS](https://sds.cuhk.edu.cn/en), supervised by Prof. [Zhizheng Wu](http://www.drwuz.com/). Prior to that, I received my B.S. degree from CUHK-Shenzhen.
 
-**I am looking for a full-time position now, feel free to contact me if you are interested in my experience!**
+My research interests include **Multimodal LLMs, Generative AI for Speech and Audio, and Multimodal Representation Learning**. I have interned at Meta Superintelligence Labs, Microsoft Research Asia (MSRA), and ByteDance.
+
+I have developed several advanced TTS models, including NaturalSpeech 3 and MaskGCT, and I am one of the main contributors and leaders of the open-source [Amphion](https://github.com/open-mmlab/Amphion) toolkit. My work has been published at top international AI conferences such as NeurIPS, ICML, ICLR, ACL, IEEE SLT, and IEEE TASLP.
+
+
